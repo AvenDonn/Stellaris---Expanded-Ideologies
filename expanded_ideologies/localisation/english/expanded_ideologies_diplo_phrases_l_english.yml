@@ -55,7 +55,21 @@
  EXPANDED_IDEOLOGIES_WS_VASSAL_GREETING_DISLOYAL_01:0 "You are nothing but a subjugator and tyrant!"
 
 # Revolutionary Council
-
+ EXPANDED_IDEOLOGIES_RC_HOSTILE_GREETING_01:0 "Your nation are an enemy of the people!"
+ EXPANDED_IDEOLOGIES_RC_HOSTILE_GREETING_02:0 "Your workers will eventually rise against your oppression!"
+ EXPANDED_IDEOLOGIES_RC_DOMINEERING_GREETING_01:0 "Your revolution is inevitable."
+ EXPANDED_IDEOLOGIES_RC_NEUTRAL_GREETING_01:0 "Interested in our revolutionary politics? You've come to the right place!"
+ EXPANDED_IDEOLOGIES_RC_NEUTRAL_GREETING_02:0 "Let us discuss about what we can do with the means of production."
+ EXPANDED_IDEOLOGIES_RC_NEUTRAL_GREETING_03:0 "You want true equality? How can you have equality when you can't even seize the means of production?"
+ EXPANDED_IDEOLOGIES_RC_THREATENED_GREETING_01:0 "Our union is unbreakable! Created in struggle by the will of our people!"
+ EXPANDED_IDEOLOGIES_RC_FRIENDLY_GREETING_01:0 "Welcome comrade! Let us stand together against the tyranny of the wealthy elites."
+ EXPANDED_IDEOLOGIES_RC_FRIENDLY_GREETING_02:0 "Welcome! [Root.GetName] is a friend of all revolutionaries. Even if they are not revolutionaries yet!"
+ EXPANDED_IDEOLOGIES_RC_FRIENDLY_GREETING_03:0 "Comrade [From.GetRulerTitle] [From.GetRulerName]! Good to see you!"
+ EXPANDED_IDEOLOGIES_RC_WAR_GREETING_01:0 "The revolution begins!"
+ EXPANDED_IDEOLOGIES_RC_WAR_GREETING_02:0 "Time to end your oppression!"
+ EXPANDED_IDEOLOGIES_RC_WAR_GREETING_03:0 "The permanent revolution continues!"
+ EXPANDED_IDEOLOGIES_RC_VASSAL_GREETING_01:0 "The revolution continues even under your watchful rule."
+ EXPANDED_IDEOLOGIES_RC_VASSAL_GREETING_DISLOYAL_01:0 "Our eyes saw the bright sun of freedom above! You will not oppress us for long!"
 
 # Worker's Senate
 
