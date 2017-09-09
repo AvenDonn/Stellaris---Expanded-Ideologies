@@ -19,8 +19,6 @@
  EXPANDED_IDEOLOGIES_PL_STATIST_GREETING_01:0 "Your police are nothing but [From.GetSpeciesNamePluralInsult] oppressing your citizens."
  EXPANDED_IDEOLOGIES_PL_LIBERAL_GREETING_01:0 "We are happy to see you hold the liberty and freedom of your citizens in high regard."
  
-# Corporatism
- RC_HOSTILE_GREETING_01:0 "Our corporate interests don't synergize well with your business strategy."
 # Profiteers
  EXPANDED_IDEOLOGIES_PROFIT_HOSTILE_GREETING_01:0 "Our corporate interests don't synergize well with your business strategy."
  EXPANDED_IDEOLOGIES_PROFIT_HOSTILE_GREETING_02:0 "Your personal beliefs are are nothing but employer branding."
