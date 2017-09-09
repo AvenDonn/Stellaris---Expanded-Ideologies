@@ -1,7 +1,7 @@
 ﻿l_english:
 
 personality_expanded_ideologies_peaceful_libertarians:0 "Peaceful Libertarians"
-personality_expanded_ideologies_peaceful_libertarians_desc:0 "Peaceful Libertarians care deeply about personal freedoms and liberty. They are anti-interventionist and do not subjugate others."
+personality_expanded_ideologies_peaceful_libertarians_desc:0 "Peaceful Libertarians care deeply about personal freedoms and liberty. They are anti-interventionist and do not wish to subjugate others."
 personality_expanded_ideologies_profiteers:0 "Profiteers"
 personality_expanded_ideologies_profiteers_desc:0 "Profiteers are profit oriented, and have no qualms about using violent conquest as yet another tool to expand their market share."
 personality_expanded_ideologies_welfare_state:0 "Welfare State"
@@ -9,6 +9,6 @@ personality_expanded_ideologies_welfare_state_desc:0 "The Welfare State is conce
 personality_expanded_ideologies_revolutionary_council:0 "Revolutionary Council"
 personality_expanded_ideologies_revolutionary_council_desc:0 "The Revolutionary Council sees to the perpetuation of the revolution. The workers must rise up against their oppressors. And if they don't want to, they will make them."
 personality_expanded_ideologies_workers_party:0 "Worker's Senate"
-personality_expanded_ideologies_workers_party_desc: 0 "The Worker's Senate is in charge of protecting the living space of its people. Sometimes they try to protect land that isn't theirs... Yet."
-personality_expanded_ideologies_fascism:0 "Xenophobic Expansionists"
-personality_expanded_ideologies_fascism_desc:0 "Xenophobic Expansionists care only for themselves and view others as hurdles to overcome to achieve their own greatness."
+personality_expanded_ideologies_workers_party_desc:0 "The Worker's Senate is in charge of protecting the living space of its people. Sometimes they try to protect land that isn't theirs... Yet."
+personality_expanded_ideologies_fascism:0 "Xenophobic Warmongers"
+personality_expanded_ideologies_fascism_desc:0 "Xenophobic Warmongers care only for themselves and view others as hurdles to overcome to achieve their own greatness."
