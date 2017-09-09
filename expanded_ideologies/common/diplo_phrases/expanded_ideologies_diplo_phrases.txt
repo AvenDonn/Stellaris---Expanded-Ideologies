@@ -227,12 +227,12 @@ greetings = {
 	}
 	
 # Profiteers
-	EXPANDED_IDEAOLOGIES_PROFIT_HOSTILE_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_HOSTILE_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_hostile_to = FROM
@@ -240,12 +240,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_HOSTILE_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_PROFIT_HOSTILE_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			FROM = {
 				OR = {
 					has_ethic = ethic_spiritualist
@@ -259,44 +259,44 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_DOMINEERING_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_DOMINEERING_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_domineering_to = FROM
 			}
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_NEUTRAL_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_NEUTRAL_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_NEUTRAL_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_PROFIT_NEUTRAL_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_NEUTRAL_GREETING_03 = {
+	EXPANDED_IDEOLOGIES_PROFIT_NEUTRAL_GREETING_03 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			FROM = {
 				OR = {
 					has_ethic = ethic_spiritualist
@@ -307,22 +307,22 @@ greetings = {
 			is_neutral_to = FROM
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_THREATENED_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_THREATENED_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			is_threatened_to = FROM
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_FRIENDLY_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_FRIENDLY_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -331,12 +331,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_FRIENDLY_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_PROFIT_FRIENDLY_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -345,12 +345,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_FRIENDLY_GREETING_03 = {
+	EXPANDED_IDEOLOGIES_PROFIT_FRIENDLY_GREETING_03 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -359,51 +359,51 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_WAR_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_WAR_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			is_at_war_with = FROM
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_WAR_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_PROFIT_WAR_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			is_at_war_with = FROM
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_WAR_GREETING_03 = {
+	EXPANDED_IDEOLOGIES_PROFIT_WAR_GREETING_03 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			is_at_war_with = FROM
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_VASSAL_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_VASSAL_GREETING_01 = {
 		weight = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
 			NOT = { is_disloyal_to = FROM }
 		}
 	}
-	EXPANDED_IDEAOLOGIES_PROFIT_VASSAL_GREETING_DISLOYAL_01 = {
+	EXPANDED_IDEOLOGIES_PROFIT_VASSAL_GREETING_DISLOYAL_01 = {
 		weight = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_profiteers
+			has_ai_personality = expanded_ideologies_profiteers
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -417,7 +417,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_hostile_to = FROM
@@ -430,7 +430,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_hostile_to = FROM
@@ -443,7 +443,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			FROM = {
 				OR = {
 					has_ethic = ethic_militarist
@@ -462,7 +462,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_domineering_to = FROM
@@ -474,7 +474,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
@@ -484,7 +484,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
@@ -494,7 +494,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
@@ -504,7 +504,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			is_threatened_to = FROM
 		}
@@ -514,7 +514,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -528,7 +528,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			NOT = { is_in_federation_with = FROM }
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -543,7 +543,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			is_in_federation_with = FROM
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -558,7 +558,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			is_at_war_with = FROM
 		}
 	}
@@ -567,7 +567,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			OR = {
 				has_federation = yes
 				has_federation = yes
@@ -580,7 +580,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			is_at_war_with = FROM
 		}
 	}
@@ -589,7 +589,7 @@ greetings = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -601,7 +601,7 @@ greetings = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_welfare_state
+			has_ai_personality = expanded_ideologies_welfare_state
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -615,7 +615,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_hostile_to = FROM
@@ -628,7 +628,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_hostile_to = FROM
@@ -641,7 +641,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_domineering_to = FROM
@@ -653,7 +653,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
@@ -663,7 +663,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
@@ -673,7 +673,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			OR = {
 				has_ethic = ethic_egalitarian
 				has_ethic = ethic_fanatic_egalitarian
@@ -687,7 +687,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			is_threatened_to = FROM
 		}
@@ -697,7 +697,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -711,7 +711,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -725,7 +725,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -739,7 +739,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			is_at_war_with = FROM
 		}
 	}
@@ -748,7 +748,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_same_species = FROM }
 			is_at_war_with = FROM
 		}
@@ -758,7 +758,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			NOT = { is_same_species = FROM }
 			is_at_war_with = FROM
 		}
@@ -768,7 +768,7 @@ greetings = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -780,7 +780,7 @@ greetings = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_revolutionary_council
+			has_ai_personality = expanded_ideologies_revolutionary_council
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -794,7 +794,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_same_species = FROM }
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -808,7 +808,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_hostile_to = FROM
@@ -821,7 +821,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_same_species = FROM }
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -834,7 +834,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
@@ -844,7 +844,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
@@ -854,7 +854,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_at_war_with = FROM }
 			is_threatened_to = FROM
 		}
@@ -864,7 +864,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -878,7 +878,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -892,7 +892,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			is_in_federation_with = FROM
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -907,7 +907,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			FROM = {
 				OR = {
 					has_ethic = ethic_pacifist
@@ -927,7 +927,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			is_at_war_with = FROM
 		}
 	}
@@ -936,7 +936,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			is_at_war_with = FROM
 		}
 	}
@@ -945,7 +945,7 @@ greetings = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			is_at_war_with = FROM
 		}
 	}
@@ -954,7 +954,7 @@ greetings = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -966,7 +966,7 @@ greetings = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_workers_party
+			has_ai_personality = expanded_ideologies_workers_party
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -975,13 +975,13 @@ greetings = {
 	}
 	
 	
-# Xenophobic Expansionists
-	EXPANDED_IDEOLOGIES_XE_HOSTILE_GREETING_01 = {
+# Xenophobic Warmongers
+	EXPANDED_IDEOLOGIES_XW_HOSTILE_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_same_species = FROM }
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -990,12 +990,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_HOSTILE_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_XW_HOSTILE_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_hostile_to = FROM
@@ -1003,12 +1003,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_DOMINEERING_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_XW_DOMINEERING_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_same_species = FROM }
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -1016,54 +1016,54 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_DOMINEERING_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_XW_DOMINEERING_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_domineering_to = FROM
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_NEUTRAL_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_XW_NEUTRAL_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_NEUTRAL_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_XW_NEUTRAL_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_at_war_with = FROM }
 			is_neutral_to = FROM
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_THREATENED_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_XW_THREATENED_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_at_war_with = FROM }
 			is_threatened_to = FROM
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_FRIENDLY_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_XW_FRIENDLY_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -1072,12 +1072,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_FRIENDLY_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_XW_FRIENDLY_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_at_war_with = FROM }
 			OR = {
 				is_friendly_to = FROM
@@ -1086,12 +1086,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_FRIENDLY_GREETING_03 = {
+	EXPANDED_IDEOLOGIES_XW_FRIENDLY_GREETING_03 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			is_in_federation_with = FROM
 			NOT = { is_at_war_with = FROM }
 			OR = {
@@ -1101,12 +1101,12 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_FRIENDLY_GREETING_04 = {
+	EXPANDED_IDEOLOGIES_XW_FRIENDLY_GREETING_04 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			FROM = {
 				OR = {
 					has_ethic = ethic_pacifist
@@ -1121,52 +1121,52 @@ greetings = {
 			}
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_WAR_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_XW_WAR_GREETING_01 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			NOT = { is_same_species = FROM }
 			is_at_war_with = FROM
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_WAR_GREETING_02 = {
+	EXPANDED_IDEOLOGIES_XW_WAR_GREETING_02 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			is_at_war_with = FROM
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_WAR_GREETING_03 = {
+	EXPANDED_IDEOLOGIES_XW_WAR_GREETING_03 = {
 		weight = {
 			weight = 3
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			is_at_war_with = FROM
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_VASSAL_GREETING_01 = {
+	EXPANDED_IDEOLOGIES_XW_VASSAL_GREETING_01 = {
 		weight = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
 			NOT = { is_disloyal_to = FROM }
 		}
 	}
-	EXPANDED_IDEOLOGIES_XE_VASSAL_GREETING_DISLOYAL_01 = {
+	EXPANDED_IDEOLOGIES_XW_VASSAL_GREETING_DISLOYAL_01 = {
 		weight = {
 			weight = 10
 		}
 		trigger = {
-			has_ai_personality = personality_expanded_ideologies_fascism
+			has_ai_personality = expanded_ideologies_fascism
 			exists = overlord
 			overlord = { is_same_value = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -1175,3 +1175,4 @@ greetings = {
 	}
 	
 }
+ 
