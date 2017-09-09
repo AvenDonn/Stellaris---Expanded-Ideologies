@@ -4,8 +4,8 @@
 # Anarcho-Capitalism
  expanded_ideologies_gov_anarcho_capitalism:0 "Anarcho-Capitalism"
  expanded_ideologies_gov_anarcho_capitalism_desc:0 "This government is a loose collection of voluntary contractual obligations with everything being held in private ownership."
- EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_MALE:0 "Chief Representitive"
- EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_FEMALE:0 "Chief Representitive"
+ EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_MALE:0 "Chief Representative"
+ EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_FEMALE:0 "Chief Representative"
  EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_ANARCHO_CAPITALISM:0 "Our people always strived for liberty. Through the ages, our systems of government gradually became less and less totalitarian. Private enterprise started surpassing nation-states even before the discovery of electricity, and have only grown more commonplace since. Eventually, people saw no need for centralized governments. One by one, they were voluntarily dismantled. Some oppressive regimes still exist, but their power diminishes by the day. Most refer to our system of life as [GetName]."
  
 # Corporatism
@@ -13,19 +13,19 @@
  expanded_ideologies_gov_corporatism_desc:0 "This government has strong corporate lobbies dictating the laws and decisions of the government, effectively making it a corporate oligarchy."
  EXPANDED_IDEOLOGIES_RT_CORPORATISM_LEAD_MALE:0 "Chief Executive Officer"
  EXPANDED_IDEOLOGIES_RT_CORPORATISM_LEAD_MALE:0 "Chief Executive Officer"
- EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_CORPORATISM:0 "Ever since the ages of feudalism, powerful guilds and enterprises were heavily entrenched as the true aristoracy. Either overtly, or from the shadows, they influenced our governments. Soon their power became effectively absolute. No matter who was the ruler, they could not resist the power of the corporations. Even now as a united world government, no matter if under king or president, one corporation has the most power in [GetName], until it is supplanted once more."
+ EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_CORPORATISM:0 "Ever since the ages of feudalism, powerful guilds and enterprises were heavily entrenched as the true aristocracy. Either overtly, or from the shadows, they influenced our governments. Soon their power became effectively absolute. No matter who was the ruler, they could not resist the power of the corporations. Even now as a united world government, no matter if under king or president, one corporation has the most power in [GetName], until it is supplanted once more."
  
 ### Socialism
 # Social Democracy
  expanded_ideologies_gov_social_democracy:0 "Social Democracy"
- expanded_ideologies_gov_social_democracy_desc:0 "This government is an extensive welfare state with equal access to neccesities paid for by taxation."
+ expanded_ideologies_gov_social_democracy_desc:0 "This government is an extensive welfare state with equal access to necessities paid for by taxation."
  EXPANDED_IDEOLOGIES_RT_SOCIAL_DEMOCRACY_LEAD_MALE:0 "Prime Minister"
  EXPANDED_IDEOLOGIES_RT_SOCIAL_DEMOCRACY_LEAD_FEMALE:0 "Prime Minister"
  EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_SOCIAL_DEMOCRACY:0 "After ages of strife and oppression, the days of squalor and inequality are over. No longer shall each person's personal life situation deprive them from their basic rights. No one should go without access to food, shelter, and healthcare. With ethics and compassion guiding our various governments, [GetName] advances forward into the future."
 
 # Communism
  expanded_ideologies_gov_communist:0 "Communist Dictatorship"
- expanded_ideologies_gov_communist_desc:0 "This government is a totalitarian communist regime, with one ruling party, extensive state survailance, and central planning of the economy."
+ expanded_ideologies_gov_communist_desc:0 "This government is a totalitarian communist regime, with one ruling party, extensive state surveillance, and central planning of the economy."
  EXPANDED_IDEOLOGIES_RT_COMMUNIST_LEAD_MALE:0 "Secretary General"
  EXPANDED_IDEOLOGIES_RT_COMMUNIST_LEAD_FEMALE:0 "Secretary General"
  EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_COMMUNISM:0 "We have settled far and wide. We have progressed through the ages separate and disparate. But eventually, during the age of mass industrialization, the workers started resisting their oppressors en-masse. After a series of violent global revolutions, a united Communist government emerged. United forever in friendship and labor, [GetName] will live through the ages!"
@@ -33,14 +33,14 @@
 ### Fascism
 # Nationalistic Expansionists
 expanded_ideologies_gov_nat_expan:0 "Nationalistic Expansionists"
-expanded_ideologies_gov_nat_expan_desc:0 "This government is a totalitarian facist regime, with one ruling party, extensive nationalistic zeal, and institionalized xenophobia."
+expanded_ideologies_gov_nat_expan_desc:0 "This government is a totalitarian fascist regime, with one ruling party, extensive nationalistic zeal, and institutionalized xenophobia."
 EXPANDED_IDEOLOGIES_RT_NAT_EXPAN_LEAD_MALE:0 "Chancellor"
 EXPANDED_IDEOLOGIES_RT_NAT_EXPAN_LEAD_FEMALE:0 "Chancellor"
 EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_NAT_EXPAN:0 "Our people have been separated from each other for many ages. After troublesome times where our cultures and ideologies were embattled against each other in global wars, we have united everyone under our rule. All undesirables have been expunged. We have finally solidified the rule of [GetName] over [GetHomeWorldName]. Oh what a future for our people!"
 
 # Fascist Dictatorship
 expanded_ideologies_gov_fascist_dict:0 "Fascist Dictatorship"
-expanded_ideologies_gov_fascist_dict_desc:0 "This government is a totalitarian fascist dictatorship, focused on its millitary strength and societal order."
+expanded_ideologies_gov_fascist_dict_desc:0 "This government is a totalitarian fascist dictatorship, focused on its military strength and societal order."
 EXPANDED_IDEOLOGIES_RT_FASCIST_DICT_LEAD_MALE:0 "Supreme Leader"
 EXPANDED_IDEOLOGIES_RT_FASCIST_DICT_LEAD_FEMALE:0 "Supreme Leader"
 EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_FASCIST_DICT:0 "We have faced many hardships, and only through the unification of our power and the guiding hand of our supreme leaders, were we able to finally quash all dissent and unify against all others. We are forever united and proud! We call ourselves [GetName] and we will rule forever!"
