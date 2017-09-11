@@ -63,7 +63,8 @@ expanded_ideologies_gov_anarcho_capitalism = {
 	}
 }
 
-# Corporatism
+# Corporatocracy 
+# Previously Corporatism. Key left unchanged for compatability.
 expanded_ideologies_gov_corporatism = {
 
 	ruler_title = EXPANDED_IDEOLOGIES_RT_CORPORATISM_LEAD_MALE

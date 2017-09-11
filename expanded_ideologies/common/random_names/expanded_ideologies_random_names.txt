@@ -140,9 +140,9 @@ empire_name_format = {
 	# Human Star Empire
 }
 
-# Corporatism
+# Corporatocracy
 empire_name_parts_list = {
-	key = "expanded_ideologies_corporatism"
+	key = "expanded_ideologies_corporatocracy"
 	parts = {
 		"Republic" = 2
 		"Alliance" = 2
@@ -163,9 +163,9 @@ empire_name_parts_list = {
 	}
 }
 
-# Corporatism Descriptive
+# Corporatocracy Descriptive
 empire_name_parts_list = {
-	key = "expanded_ideologies_corporatism_desc"
+	key = "expanded_ideologies_corporatocracy_desc"
 	parts = {
 		"Organized" = 2
 		"United" = 3
@@ -176,9 +176,9 @@ empire_name_parts_list = {
 	}
 }
 
-# Corporatism Middle Descriptive
+# Corporatocracy Middle Descriptive
 empire_name_parts_list = {
-	key = "expanded_ideologies_corporatism_mid_desc"
+	key = "expanded_ideologies_corporatocracy_mid_desc"
 	parts = {
 		"Interstellar" = 1
 		"Interplanetary" = 1
@@ -188,7 +188,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Corporatism 1
+# Corporatocracy 1
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -201,13 +201,13 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "format.expanded_ideologies_corporatism.1"
+	format = "format.expanded_ideologies_corporatocracy.1"
 	noun = "[This.Capital.System.GetName]"
-	prefix_format = "[This.Capital.System.GetName] <expanded_ideologies_corporatism>"
+	prefix_format = "[This.Capital.System.GetName] <expanded_ideologies_corporatocracy>"
 	# Empire of Sol
 }
 
-# Corporatism 2
+# Corporatocracy 2
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -220,13 +220,13 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "format.expanded_ideologies_corporatism.2"
+	format = "format.expanded_ideologies_corporatocracy.2"
 	noun = "[This.Capital.GetName]"
-	prefix_format = "[This.Capital.GetName] <expanded_ideologies_corporatism>"
+	prefix_format = "[This.Capital.GetName] <expanded_ideologies_corporatocracy>"
 	# Empire of Earth
 }
 
-# Corporatism 3
+# Corporatocracy 3
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -239,13 +239,13 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "format.expanded_ideologies_corporatism.3"
+	format = "format.expanded_ideologies_corporatocracy.3"
 	noun = "[This.GetSpeciesName]"
-	prefix_format = "[This.GetSpeciesName] <expanded_ideologies_corporatism>"
+	prefix_format = "[This.GetSpeciesName] <expanded_ideologies_corporatocracy>"
 	# Human Empire
 }
 
-# Corporatism 4
+# Corporatocracy 4
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -258,13 +258,13 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "format.expanded_ideologies_corporatism.4"
+	format = "format.expanded_ideologies_corporatocracy.4"
 	noun = "[This.GetSpeciesName]"
-	prefix_format = "[This.GetSpeciesName] <expanded_ideologies_corporatism>"
+	prefix_format = "[This.GetSpeciesName] <expanded_ideologies_corporatocracy>"
 	# Great Human Empire
 }
 
-# Corporatism 5
+# Corporatocracy 5
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -277,9 +277,9 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "format.expanded_ideologies_corporatism.5"
+	format = "format.expanded_ideologies_corporatocracy.5"
 	noun = "[This.GetSpeciesName]"
-	prefix_format = "[This.GetSpeciesName] <expanded_ideologies_corporatism>"
+	prefix_format = "[This.GetSpeciesName] <expanded_ideologies_corporatocracy>"
 	# Human Star Empire
 }
 
