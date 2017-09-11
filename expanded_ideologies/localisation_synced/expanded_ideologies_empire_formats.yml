@@ -5,11 +5,11 @@
  format.expanded_ideologies_anarcho_capitalist.4: "<expanded_ideologies_anarcho_capitalist_desc> [This.GetSpeciesName] <expanded_ideologies_anarcho_capitalist>"
  format.expanded_ideologies_anarcho_capitalist.5: "[This.GetSpeciesName] <expanded_ideologies_anarcho_capitalist_mid_desc> <expanded_ideologies_anarcho_capitalist>"
  
- format.expanded_ideologies_corporatism.1: "<expanded_ideologies_corporatism> of [This.Capital.System.GetName]"
- format.expanded_ideologies_corporatism.2: "<expanded_ideologies_corporatism> of [This.Capital.GetName]"
- format.expanded_ideologies_corporatism.3: "[This.GetSpeciesName] <expanded_ideologies_corporatism>"
- format.expanded_ideologies_corporatism.4: "<expanded_ideologies_corporatism_desc> [This.GetSpeciesName] <expanded_ideologies_corporatism>"
- format.expanded_ideologies_corporatism.5: "[This.GetSpeciesName] <expanded_ideologies_corporatism_mid_desc> <expanded_ideologies_corporatism>"
+ format.expanded_ideologies_corporatocracy.1: "<expanded_ideologies_corporatocracy> of [This.Capital.System.GetName]"
+ format.expanded_ideologies_corporatocracy.2: "<expanded_ideologies_corporatocracy> of [This.Capital.GetName]"
+ format.expanded_ideologies_corporatocracy.3: "[This.GetSpeciesName] <expanded_ideologies_corporatocracy>"
+ format.expanded_ideologies_corporatocracy.4: "<expanded_ideologies_corporatocracy_desc> [This.GetSpeciesName] <expanded_ideologies_corporatocracy>"
+ format.expanded_ideologies_corporatocracy.5: "[This.GetSpeciesName] <expanded_ideologies_corporatocracy_mid_desc> <expanded_ideologies_corporatocracy>"
  
  format.expanded_ideologies_social_democracy.1: "<expanded_ideologies_social_democracy> of [This.Capital.System.GetName]"
  format.expanded_ideologies_social_democracy.2: "<expanded_ideologies_social_democracy> of [This.Capital.GetName]"
