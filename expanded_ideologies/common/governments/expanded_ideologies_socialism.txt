@@ -56,7 +56,7 @@ expanded_ideologies_gov_social_democracy = {
 	}
 }
 
-# Communist Regime
+# Communist Dictatorship
 expanded_ideologies_gov_communist = {
 
 	ruler_title = EXPANDED_IDEOLOGIES_RT_COMMUNIST_LEAD_MALE
