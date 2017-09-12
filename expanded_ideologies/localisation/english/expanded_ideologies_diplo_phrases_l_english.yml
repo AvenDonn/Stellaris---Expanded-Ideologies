@@ -76,7 +76,7 @@
  EXPANDED_IDEOLOGIES_WS2_HOSTILE_GREETING_02:0 "Do not stand in our way. If we come your way, move."
  EXPANDED_IDEOLOGIES_WS2_DOMINEERING_GREETING_01:0 "Inferior [From.GetSpeciesNamePluralInsult]. Why do you think we care for what you have to say?"
  EXPANDED_IDEOLOGIES_WS2_NEUTRAL_GREETING_01:0 "It is diplomatically convenient to engage in diplomacy with you at this time. You better hope it stays that way."
- EXPANDED_IDEOLOGIES_WS2_NEUTRAL_GREETING_02:0 ""[Root.GetName]" is a name you better remember. Either when you greet our [From.GetRulerTitle], or when we come to visit..."
+ EXPANDED_IDEOLOGIES_WS2_NEUTRAL_GREETING_02:0 ""[Root.GetName]" is a name you better remember. Either when you greet our [Root.GetRulerTitle], or when we come to visit..."
  EXPANDED_IDEOLOGIES_WS2_THREATENED_GREETING_01:0 "A pact of non-aggression is surely a good idea."
  EXPANDED_IDEOLOGIES_WS2_FRIENDLY_GREETING_01:0 "Friendly relations benefit us both. There are better ways for us to expand our living space."
  EXPANDED_IDEOLOGIES_WS2_FRIENDLY_GREETING_02:0 "It is good you recognize our inherent superiority."
