@@ -36,9 +36,6 @@ expanded_ideologies_gov_anarcho_capitalism = {
 			has_ethic = ethic_fanatic_pacifist
 		}
 		OR = {
-			has_ethic = ethic_materialist
-			}
-		OR = {
 			has_ethic = ethic_egalitarian
 			}
 		NOR = {
@@ -46,10 +43,13 @@ expanded_ideologies_gov_anarcho_capitalism = {
 			has_valid_civic = civic_cutthroat_politics
 			has_valid_civic = civic_mining_guilds
 			has_valid_civic = civic_shadow_council
+			has_valid_civic = civic_corvee_system
 			}
 		NOR = {
 			has_ethic = ethic_fanatic_egalitarian
 			has_ethic = ethic_fanatic_materialist
+			has_ethic = ethic_spiritualist
+			has_ethic = ethic_fanatic_spiritualist
 			}
 		has_valid_civic = civic_beacon_of_liberty
 	}
