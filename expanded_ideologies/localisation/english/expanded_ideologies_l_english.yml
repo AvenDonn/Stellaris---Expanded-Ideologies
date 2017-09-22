@@ -44,3 +44,22 @@ expanded_ideologies_gov_fascist_dict_desc:0 "This government is a totalitarian f
 EXPANDED_IDEOLOGIES_RT_FASCIST_DICT_LEAD_MALE:0 "Supreme Leader"
 EXPANDED_IDEOLOGIES_RT_FASCIST_DICT_LEAD_FEMALE:0 "Supreme Leader"
 EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_FASCIST_DICT:0 "We have faced many hardships, and only through the unification of our power and the guiding hand of our supreme leaders, were we able to finally quash all dissent and unify against all others. We are forever united and proud! We call ourselves [GetName] and we will rule forever!"
+
+### Religious
+# Crusader Kingdom
+expanded_ideologies_gov_crusader_kingdom:0 "Crusader Kingdom"
+expanded_ideologies_gov_crusader_kingdom_desc:0 "This government is an imperial hierarchical monarchy of kings, dukes, counts, and barons. It is plagued with devious plots and religious struggles."
+EXPANDED_IDEOLOGIES_RT_CRUSADER_KINGDOM_LEAD_MALE:0 "Emperor"
+EXPANDED_IDEOLOGIES_RT_CRUSADER_KINGDOM_LEAD_FEMALE:0 "Empress"
+EXPANDED_IDEOLOGIES_RT_CRUSADER_KINGDOM_HEIR_MALE:0 "Crown Prince"
+EXPANDED_IDEOLOGIES_RT_CRUSADER_KINGDOM_HEIR_FEMALE:0 "Crown Princess"
+EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_CRUSADER_KINGDOM:0 "From the dawn of our blessed empire we have sought glory and unity, through holy crusades guided by our wise lords. Now as we [GetSpeciesNamePlural] stand united under the divine  appointed regents, we turn our gaze to the stars, to the vast worlds beyond our own. We shall unite these new worlds and lead them to enlightenment under the watchful gaze of the divine! The time for the greatest crusade is upon us! The divine wills it, and so it shall be!"
+
+# Holy Imperium
+expanded_ideologies_gov_holy_imperium:0 "Holy Imperium"
+expanded_ideologies_gov_holy_imperium_desc:0 "This government is ruled by a "God Emperor" with great zeal. It distrusts external influences and suffers not the xeno to live."
+EXPANDED_IDEOLOGIES_RT_HOLY_IMPERIUM_LEAD_MALE:0 "God-Emperor"
+EXPANDED_IDEOLOGIES_RT_HOLY_IMPERIUM_LEAD_FEMALE:0 "God-Empress"
+EXPANDED_IDEOLOGIES_RT_HOLY_IMPERIUM_HEIR_MALE:0 "Ascendant"
+EXPANDED_IDEOLOGIES_RT_HOLY_IMPERIUM_HEIR_FEMALE:0 "Ascendant"
+EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_HOLY_IMPERIUM:0 "Under the protection and guidance of the [GetRulerTitle], the [GetSpeciesNamePlural] have been united and prosperous. But our holy [GetHomeWorldName] grows crowded and polluted. Perhaps we are ready to face the great void and its dangers. It is time to achieve our glory! For the [GetRulerTitle]!"

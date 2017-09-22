@@ -69,3 +69,27 @@ part = {
 		NOT = { has_country_flag = custom_start_screen }
 	}
 }
+
+part = {
+	location = 1
+	localization = "EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_CRUSADER_KINGDOM"
+	
+	trigger = {
+		OR = {
+			has_government = expanded_ideologies_gov_crusader_kingdom
+		}
+		NOT = { has_country_flag = custom_start_screen }
+	}
+}
+
+part = {
+	location = 1
+	localization = "EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_HOLY_IMPERIUM"
+	
+	trigger = {
+		OR = {
+			has_government = expanded_ideologies_gov_holy_imperium
+		}
+		NOT = { has_country_flag = custom_start_screen }
+	}
+}

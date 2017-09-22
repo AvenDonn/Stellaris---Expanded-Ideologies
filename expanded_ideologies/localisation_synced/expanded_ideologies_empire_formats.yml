@@ -34,3 +34,15 @@
  format.expanded_ideologies_fascist_dict.3: "[This.GetSpeciesName] <expanded_ideologies_fascist_dict>"
  format.expanded_ideologies_fascist_dict.4: "<expanded_ideologies_fascist_dict_desc> [This.GetSpeciesName] <expanded_ideologies_fascist_dict>"
  format.expanded_ideologies_fascist_dict.5: "[This.GetSpeciesName] <expanded_ideologies_fascist_dict_mid_desc> <expanded_ideologies_fascist_dict>"
+ 
+ format.expanded_ideologies_holy_crusader_kingdom.1: "<expanded_ideologies_holy_crusader_kingdom> of [This.Capital.System.GetName]"
+ format.expanded_ideologies_holy_crusader_kingdom.2: "<expanded_ideologies_holy_crusader_kingdom> of [This.Capital.GetName]"
+ format.expanded_ideologies_holy_crusader_kingdom.3: "[This.GetSpeciesName] <expanded_ideologies_holy_crusader_kingdom>"
+ format.expanded_ideologies_holy_crusader_kingdom.4: "<expanded_ideologies_holy_crusader_kingdom_desc> [This.GetSpeciesName] <expanded_ideologies_holy_crusader_kingdom>"
+ format.expanded_ideologies_holy_crusader_kingdom.5: "[This.GetSpeciesName] <expanded_ideologies_holy_crusader_kingdom_mid_desc> <expanded_ideologies_holy_crusader_kingdom>"
+ 
+ format.expanded_ideologies_holy_imperium.1: "<expanded_ideologies_holy_imperium> of [This.Capital.System.GetName]"
+ format.expanded_ideologies_holy_imperium.2: "<expanded_ideologies_holy_imperium> of [This.Capital.GetName]"
+ format.expanded_ideologies_holy_imperium.3: "[This.GetSpeciesName] <expanded_ideologies_holy_imperium>"
+ format.expanded_ideologies_holy_imperium.4: "<expanded_ideologies_holy_imperium_desc> [This.GetSpeciesName] <expanded_ideologies_holy_imperium>"
+ format.expanded_ideologies_holy_imperium.5: "[This.GetSpeciesName] <expanded_ideologies_holy_imperium_mid_desc> <expanded_ideologies_holy_imperium>"
