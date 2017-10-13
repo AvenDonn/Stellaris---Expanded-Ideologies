@@ -86,7 +86,10 @@ expanded_ideologies_gov_communist = {
 	}
 
 	possible = {
-		has_authority = auth_oligarchic
+		OR = {
+			has_authority = auth_oligarchic
+			has_authority = auth_dictatorial
+		}
 		OR = {
 			has_ethic = ethic_authoritarian
 			has_ethic = ethic_fanatic_authoritarian
