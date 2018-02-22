@@ -315,7 +315,7 @@ expanded_ideologies_revolutionary_council = {
 	}
 
 	weight_modifier = {
-		weight = 100
+		weight = 250
 		modifier = {
 			factor = 2
 			has_trait = "trait_conformists"
@@ -391,7 +391,7 @@ expanded_ideologies_workers_party = {
 	}
 
 	weight_modifier = {
-		weight = 100
+		weight = 250
 		modifier = {
 			factor = 2
 			has_trait = "trait_strong"
@@ -472,7 +472,7 @@ expanded_ideologies_fascism = {
 	}
 
 	weight_modifier = {
-		weight = 100
+		weight = 250
 		modifier = {
 			factor = 2
 			has_trait = "trait_strong"
