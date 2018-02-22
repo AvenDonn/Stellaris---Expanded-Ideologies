@@ -113,7 +113,7 @@
  EXPANDED_IDEOLOGIES_RC2_DOMINEERING_GREETING_01:0 "The divine will it! The time will come soon."
  EXPANDED_IDEOLOGIES_RC2_NEUTRAL_GREETING_01:0 "Hail, [From.GetRulerTitle] [From.GetRulerName]. Interested in a grand hunt?"
  EXPANDED_IDEOLOGIES_RC2_NEUTRAL_GREETING_02:0 "[Root.GetRulerTitle] [Root.GetRulerName] is the rightful divine appointed ruler of the [Root.GetName]."
- EXPANDED_IDEOLOGIES_RC2_NEUTRAL_GREETING_03:0 "Consider this a formal invite for [From.GetRulerTitle] [From.GetRulerName] to join [Root.GetRulerTitle] [Root.GetRuleName] for some carousing."
+ EXPANDED_IDEOLOGIES_RC2_NEUTRAL_GREETING_03:0 "Consider this a formal invite for [From.GetRulerTitle] [From.GetRulerName] to join [Root.GetRulerTitle] [Root.GetRulerName] for some carousing."
  EXPANDED_IDEOLOGIES_RC2_THREATENED_GREETING_01:0 "Our court chancellor is already on their way to improve relations."
  EXPANDED_IDEOLOGIES_RC2_FRIENDLY_GREETING_01:0 "[Root.GetRulerTitle] [Root.GetRulerName] is looking forward to the next tournament. Be sure to attend! We would enjoy seeing your martial prowess."
  EXPANDED_IDEOLOGIES_RC2_FRIENDLY_GREETING_02:0 "The peasantry and the gentry alike consider [From.GetName] as friendly and honorable.
