@@ -21,6 +21,7 @@ expanded_ideologies_peaceful_libertarians = {
 	threat_modifier = 2
 	threat_others_modifier = 1.0
 	friction_modifier = 0.1
+	claims_modifier = 3.0 # Don't tread on me
 
 	behaviour = {
 		conqueror = no
@@ -118,6 +119,7 @@ expanded_ideologies_profiteers = {
 	threat_modifier = 1.0
 	threat_others_modifier = 0.75
 	friction_modifier = 0.5
+	claims_modifier = 1.5
 
 	behaviour = {
 		conqueror = yes
@@ -192,6 +194,7 @@ expanded_ideologies_welfare_state = {
 	threat_modifier = 0.75
 	threat_others_modifier = 1
 	friction_modifier = 0.5
+	claims_modifier = 1
 
 	behaviour = {
 		conqueror = no
@@ -261,6 +264,7 @@ expanded_ideologies_revolutionary_council = {
 	threat_modifier = 0.75
 	threat_others_modifier = 0.75
 	friction_modifier = 2
+	claims_modifier = 2
 
 	behaviour = {
 		conqueror = yes
@@ -346,6 +350,7 @@ expanded_ideologies_workers_party = {
 	threat_modifier = 1
 	threat_others_modifier = 0.75
 	friction_modifier = 2.0
+	claims_modifier = 4
 
 	behaviour = {
 		conqueror = yes
@@ -425,6 +430,7 @@ expanded_ideologies_fascism = {
 	threat_modifier = 1
 	threat_others_modifier = 0.75
 	friction_modifier = 2.0
+	claims_modifier = 3
 
 	behaviour = {
 		conqueror = yes
@@ -505,6 +511,7 @@ expanded_ideologies_religious_crusaders = {
 	threat_modifier = 0.75
 	threat_others_modifier = 1
 	friction_modifier = 1.25
+	claims_modifier = 2
 
 	behaviour = {
 		conqueror = no
@@ -588,6 +595,7 @@ expanded_ideologies_proud_xenophobes = {
 	threat_modifier = 0.75
 	threat_others_modifier = 0.5
 	friction_modifier = 3
+	claims_modifier = 1
 
 	behaviour = {
 		conqueror = yes
