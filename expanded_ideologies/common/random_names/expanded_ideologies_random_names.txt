@@ -9,6 +9,7 @@ empire_name_parts_list = {
 		"Minarchy" = 3
 		"League" = 3
 		"Freedom" = 3
+		"Association" = 3
 		"Coalition" = 2
 		"Assembly" = 2
 		"Organization" = 2
@@ -30,6 +31,7 @@ empire_name_parts_list = {
 		"Free" = 3
 		"Liberated" = 3
 		"Libertarian" = 3
+		"Voluntary" = 3
 	}
 }
 
