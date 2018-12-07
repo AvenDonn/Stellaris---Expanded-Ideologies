@@ -10,7 +10,7 @@ expanded_ideologies_gov_corporatocracy = {
 			leader_class = ruler
 		}
 		modifier = {
-			add = 100
+			add = 500
 			leader_class = governor
 		}
 		modifier = {
@@ -28,6 +28,11 @@ expanded_ideologies_gov_corporatocracy = {
 
 	possible = {
 		has_authority = auth_oligarchic
+		NOR = {
+			host_has_dlc = "Megacorp"
+			has_authority = auth_corporate
+			# Normal megacorps already encompass anything this government could be.
+		}
 		OR = {
 			has_ethic = ethic_authoritarian
 			has_ethic = ethic_fanatic_authoritarian
@@ -40,7 +45,7 @@ expanded_ideologies_gov_corporatocracy = {
 			has_valid_civic = civic_beacon_of_liberty
 			has_valid_civic = civic_slaver_guilds
 			has_valid_civic = civic_aristocratic_elite
-			has_valid_civic = civic_corporate_dominion #that would just make it a Megacorp
+			has_valid_civic = civic_corporate_dominion #that would just make it a normal Megacorp
 			has_valid_civic = civic_citizen_service
 			}
 		OR = {
@@ -52,7 +57,7 @@ expanded_ideologies_gov_corporatocracy = {
 		base = 500
 		modifier = {
 			factor = 2
-			has_valid_civic = civic_meritocracy
+			has_valid_civic = civic_byzantine_bureaucracy
 		}
 	}
 }
