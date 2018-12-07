@@ -6,29 +6,22 @@ expanded_ideologies_gov_anarcho_capitalism = {
 
 	election_candidates = {
 		modifier = {
-			add = 200
+			add = 100
 			OR ={
 			leader_class = governor
 			leader_class = ruler
+			leader_class = scientist
+			leader_class = admiral
+			leader_class = general
 			}
 		}
 		modifier = {
-			add = 100
-			OR = {
-				leader_class = scientist
-			}
-		}
-		modifier = {
-			add = 50
-			OR = {
-				leader_class = admiral
-				leader_class = general
-			}
+			add = 200
+			leader_class = ruler
 		}
 	}
 
 	possible = {
-		has_authority = auth_democratic
 		OR = {
 			has_ethic = ethic_pacifist
 			has_ethic = ethic_fanatic_pacifist
@@ -42,6 +35,26 @@ expanded_ideologies_gov_anarcho_capitalism = {
 			has_valid_civic = civic_mining_guilds
 			has_valid_civic = civic_shadow_council
 			has_valid_civic = civic_corvee_system
+			has_valid_civic = civic_imperial_cult
+			has_valid_civic = civic_exalted_priesthood
+			has_valid_civic = civic_philosopher_king
+			has_valid_civic = civic_citizen_service
+			has_valid_civic = civic_technocracy
+			has_valid_civic = civic_slaver_guilds
+			has_valid_civic = civic_inwards_perfection
+			has_valid_civic = civic_warrior_culture
+			has_valid_civic = civic_distinguished_admiralty
+			has_valid_civic = civic_corporate_dominion
+			has_valid_civic = civic_shadow_council
+			has_valid_civic = civic_nationalistic_zeal
+			has_valid_civic = civic_aristocratic_elite
+			has_valid_civic = civic_shared_burden
+			has_valid_civic = civic_fanatic_purifiers
+			has_valid_civic = civic_barbaric_despoilers
+			has_valid_civic = civic_byzantine_bureaucracy
+			has_valid_civic = civic_gospel_of_the_masses
+			has_valid_civic = civic_criminal_heritage
+			has_valid_civic = civic_indentured_assets
 			}
 		NOR = {
 			has_ethic = ethic_fanatic_egalitarian
@@ -49,14 +62,33 @@ expanded_ideologies_gov_anarcho_capitalism = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist
 			}
-		has_valid_civic = civic_beacon_of_liberty
+		OR = {
+			AND = { 
+				NOT = { host_has_dlc = "Megacorp" } 
+				has_authority = auth_democratic
+				has_valid_civic = civic_beacon_of_liberty
+			}
+			AND = {
+				host_has_dlc = "Megacorp"
+				has_authority = auth_corporate
+				has_valid_civic = civic_free_traders
+			}
+		}
 	}
 
 	weight = {
-		base = 500
+		base = 1500
 		modifier = {
 			factor = 2
 			has_valid_civic = civic_meritocracy
+		}
+		modifier = {
+			factor = 2
+			has_valid_civic = civic_free_haven
+		}
+		modifier = {
+			factor = 2
+			has_valid_civic = civic_merchant_guilds
 		}
 	}
 }

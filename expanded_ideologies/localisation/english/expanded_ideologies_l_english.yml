@@ -2,8 +2,8 @@
 
 ### Capitalism
 # Anarcho-Capitalism
- expanded_ideologies_gov_anarcho_capitalism:0 "Anarcho-Capitalism"
- expanded_ideologies_gov_anarcho_capitalism_desc:0 "This government is a loose collection of voluntary contractual obligations with everything being held in private ownership."
+ expanded_ideologies_gov_anarcho_capitalism:0 "Anarchocapitalism"
+ expanded_ideologies_gov_anarcho_capitalism_desc:0 "This society is comprised of many private entitites of various sizes interacting voluntarily with each other in an environment with no single centralized regulatory or governing body."
  EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_MALE:0 "Chief Representative"
  EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_FEMALE:0 "Chief Representative"
  EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_ANARCHO_CAPITALISM:0 "Our people always strived for liberty. Through the ages, our systems of government gradually became less and less totalitarian. Private enterprise started surpassing nation-states even before the discovery of electricity, and have only grown more commonplace since. Eventually, people saw no need for centralized governments. One by one, they were voluntarily dismantled. Some oppressive regimes still exist, but their power diminishes by the day. Most refer to our system of life as [GetName]."
@@ -57,7 +57,7 @@ EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_CRUSADER_KINGDOM:0 "From the dawn of o
 
 # Holy Imperium
 expanded_ideologies_gov_holy_imperium:0 "Holy Imperium"
-expanded_ideologies_gov_holy_imperium_desc:0 "This government is ruled by a "God Emperor" with great zeal. It distrusts external influences and suffers not the xeno to live."
+expanded_ideologies_gov_holy_imperium_desc:0 "This government is ruled by a \"God Emperor\" with great zeal. It distrusts external influences and suffers not the xeno to live."
 EXPANDED_IDEOLOGIES_RT_HOLY_IMPERIUM_LEAD_MALE:0 "God-Emperor"
 EXPANDED_IDEOLOGIES_RT_HOLY_IMPERIUM_LEAD_FEMALE:0 "God-Empress"
 EXPANDED_IDEOLOGIES_RT_HOLY_IMPERIUM_HEIR_MALE:0 "Ascendant"
