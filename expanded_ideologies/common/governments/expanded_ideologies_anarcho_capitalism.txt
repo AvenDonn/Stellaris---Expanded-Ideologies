@@ -1,0 +1,62 @@
+# Anarcho-Capitalism 
+expanded_ideologies_gov_anarcho_capitalism = {
+
+	ruler_title = EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_MALE
+	ruler_title_female = EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_FEMALE
+
+	election_candidates = {
+		modifier = {
+			add = 200
+			OR ={
+			leader_class = governor
+			leader_class = ruler
+			}
+		}
+		modifier = {
+			add = 100
+			OR = {
+				leader_class = scientist
+			}
+		}
+		modifier = {
+			add = 50
+			OR = {
+				leader_class = admiral
+				leader_class = general
+			}
+		}
+	}
+
+	possible = {
+		has_authority = auth_democratic
+		OR = {
+			has_ethic = ethic_pacifist
+			has_ethic = ethic_fanatic_pacifist
+		}
+		OR = {
+			has_ethic = ethic_egalitarian
+			}
+		NOR = {
+			has_valid_civic = civic_police_state
+			has_valid_civic = civic_cutthroat_politics
+			has_valid_civic = civic_mining_guilds
+			has_valid_civic = civic_shadow_council
+			has_valid_civic = civic_corvee_system
+			}
+		NOR = {
+			has_ethic = ethic_fanatic_egalitarian
+			has_ethic = ethic_fanatic_materialist
+			has_ethic = ethic_spiritualist
+			has_ethic = ethic_fanatic_spiritualist
+			}
+		has_valid_civic = civic_beacon_of_liberty
+	}
+
+	weight = {
+		base = 500
+		modifier = {
+			factor = 2
+			has_valid_civic = civic_meritocracy
+		}
+	}
+}
