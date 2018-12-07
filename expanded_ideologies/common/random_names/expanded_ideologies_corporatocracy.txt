@@ -52,7 +52,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 1
-			has_government = "expanded_ideologies_gov_corporatism"
+			has_government = "expanded_ideologies_gov_corporatocracy"
 			is_pirate = no
 			is_primitive = no
 			NOT = { is_country_type = fallen_empire }
@@ -71,7 +71,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 1
-			has_government = "expanded_ideologies_gov_corporatism"
+			has_government = "expanded_ideologies_gov_corporatocracy"
 			is_pirate = no
 			is_primitive = no
 			NOT = { is_country_type = fallen_empire }
@@ -90,7 +90,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 5
-			has_government = "expanded_ideologies_gov_corporatism"
+			has_government = "expanded_ideologies_gov_corporatocracy"
 			is_pirate = no
 			is_primitive = no
 			NOT = { is_country_type = fallen_empire }
@@ -109,7 +109,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 2
-			has_government = "expanded_ideologies_gov_corporatism"
+			has_government = "expanded_ideologies_gov_corporatocracy"
 			is_pirate = no
 			is_primitive = no
 			NOT = { is_country_type = fallen_empire }
@@ -128,7 +128,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 2
-			has_government = "expanded_ideologies_gov_corporatism"
+			has_government = "expanded_ideologies_gov_corporatocracy"
 			is_pirate = no
 			is_primitive = no
 			NOT = { is_country_type = fallen_empire }

@@ -1,4 +1,4 @@
-expanded_ideologies_fascism = {
+expanded_ideologies_xenophobic_warmongers = {
 	aggressiveness = 2
 	trade_willingness = 0.5
 	bravery = 1.75
