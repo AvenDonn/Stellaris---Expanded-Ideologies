@@ -116,7 +116,7 @@
  EXPANDED_IDEOLOGIES_RC2_NEUTRAL_GREETING_03:0 "Consider this a formal invite for [From.GetRulerTitle] [From.GetRulerName] to join [Root.GetRulerTitle] [Root.GetRulerName] for some carousing."
  EXPANDED_IDEOLOGIES_RC2_THREATENED_GREETING_01:0 "Our court chancellor is already on their way to improve relations."
  EXPANDED_IDEOLOGIES_RC2_FRIENDLY_GREETING_01:0 "[Root.GetRulerTitle] [Root.GetRulerName] is looking forward to the next tournament. Be sure to attend! We would enjoy seeing your martial prowess."
- EXPANDED_IDEOLOGIES_RC2_FRIENDLY_GREETING_02:0 "The peasantry and the gentry alike consider [From.GetName] as friendly and honorable.
+ EXPANDED_IDEOLOGIES_RC2_FRIENDLY_GREETING_02:0 "The peasantry and the gentry alike consider [From.GetName] as friendly and honorable."
  EXPANDED_IDEOLOGIES_RC2_FRIENDLY_GREETING_03:0 "[From.GetRulerTitle] [From.GetRulerName] is an honorable [From.GetSpeciesNameCompliment]. Our gentry are looking forward to seeing [From.GetRulerTitle] [From.GetRulerName] again."
  EXPANDED_IDEOLOGIES_RC2_WAR_GREETING_01:0 "The divine will it!"
  EXPANDED_IDEOLOGIES_RC2_WAR_GREETING_02:0 "You will be removed!"
@@ -135,5 +135,7 @@
  EXPANDED_IDEOLOGIES_PX_FRIENDLY_GREETING_02:0 "Praise the [From.GetRulerTitle], it's the tolerable xenos this time."
  EXPANDED_IDEOLOGIES_PX_FRIENDLY_GREETING_03:0 "I'm tempted to send you corrections to your translation software, so you may address us properly."
  EXPANDED_IDEOLOGIES_PX_WAR_GREETING_01:0 "Suffer not the xeno to live."
- EXPANDED_IDEOLOGIES_PX_VASSAL_GREETING_01:0 "The [Root.GetRuler Title] says to bide our time and accept your temporary rule over us."
+ EXPANDED_IDEOLOGIES_PX_WAR_GREETING_02:0 "The glory of the [Root.GetSpeciesNamePluralCompliment] [Root.GetSpeciesNamePlural] will triumph over the [From.GetSpeciesNamePluralInsult] [From.GetSpeciesNamePlural]."
+ EXPANDED_IDEOLOGIES_PX_WAR_GREETING_03:0 "Your [From.GetSpeciesNamePluralInsult] [From.GetSpeciesSpawnNamePlural] will not be spared."
+ EXPANDED_IDEOLOGIES_PX_VASSAL_GREETING_01:0 "The [Root.GetRulerTitle] says to bide our time and accept your temporary rule over us."
  EXPANDED_IDEOLOGIES_PX_VASSAL_GREETING_DISLOYAL_01:0 "The [Root.GetRulerTitle] will not be kept by your [From.GetSpeciesNamePluralInsult] chains!"
