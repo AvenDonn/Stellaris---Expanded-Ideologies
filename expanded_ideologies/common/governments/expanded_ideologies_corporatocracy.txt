@@ -50,14 +50,23 @@ expanded_ideologies_gov_corporatocracy = {
 			}
 		OR = {
 			has_valid_civic = civic_mining_guilds
+			has_valid_civic = civic_merchant_guilds
 			}
 	}
 
 	weight = {
-		base = 500
+		base = 1000
 		modifier = {
 			factor = 2
 			has_valid_civic = civic_byzantine_bureaucracy
+		}
+		modifier = {
+			factor = 1.5
+			has_valid_civic = civic_merchant_guilds
+		}
+		modifier = {
+			factor = 1.5
+			has_valid_civic = civic_mining_guilds
 		}
 	}
 }
