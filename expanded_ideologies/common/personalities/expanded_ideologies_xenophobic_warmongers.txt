@@ -8,15 +8,18 @@ expanded_ideologies_xenophobic_warmongers = {
 	colony_spending = 1.0
 
 	federation_acceptance = -30
-	nap_acceptance = 20
+	nap_acceptance = -50
+	commercial_pact_acceptance = -25
+	research_agreement_acceptance = -25
 	defensive_pact_acceptance = -30
 	migration_pact_acceptance = -100
 
 	advanced_start_chance = 10
 
 	weapon_preferences = weapon_type_explosive
-	armor_ratio = 0.7
-	shields_ratio = 0.3
+	armor_ratio = 0.6
+	shields_ratio = 0.2
+	hull_ratio = 0.2
 
 	threat_modifier = 1
 	threat_others_modifier = 0.75

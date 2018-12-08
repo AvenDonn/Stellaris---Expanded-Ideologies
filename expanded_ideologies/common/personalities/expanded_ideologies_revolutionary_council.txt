@@ -9,6 +9,8 @@ expanded_ideologies_revolutionary_council = {
 
 	federation_acceptance = -20
 	nap_acceptance = 10
+	commercial_pact_acceptance = -15
+	research_agreement_acceptance = 0
 	defensive_pact_acceptance = 10
 	migration_pact_acceptance = -10
 

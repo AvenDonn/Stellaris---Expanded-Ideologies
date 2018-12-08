@@ -9,6 +9,8 @@ expanded_ideologies_religious_crusaders = {
 
 	federation_acceptance = 0
 	nap_acceptance = 0
+	commercial_pact_acceptance = -10
+	research_agreement_acceptance = -10
 	defensive_pact_acceptance = 0
 	migration_pact_acceptance = 0
 

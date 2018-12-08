@@ -9,6 +9,8 @@ expanded_ideologies_welfare_state = {
 
 	federation_acceptance = 20
 	nap_acceptance = 25
+	commercial_pact_acceptance = 5
+	research_agreement_acceptance = 10
 	defensive_pact_acceptance = 25
 	migration_pact_acceptance = 10
 

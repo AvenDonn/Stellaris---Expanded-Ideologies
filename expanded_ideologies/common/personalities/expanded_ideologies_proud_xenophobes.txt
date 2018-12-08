@@ -9,6 +9,8 @@ expanded_ideologies_proud_xenophobes = {
 
 	federation_acceptance = -50
 	nap_acceptance = -50
+	commercial_pact_acceptance = -20
+	research_agreement_acceptance = -20
 	defensive_pact_acceptance = -25
 	migration_pact_acceptance = -100
 

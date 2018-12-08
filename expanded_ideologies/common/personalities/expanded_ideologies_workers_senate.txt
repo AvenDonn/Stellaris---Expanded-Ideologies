@@ -9,14 +9,17 @@ expanded_ideologies_workers_party = {
 
 	federation_acceptance = -20
 	nap_acceptance = 20
+	commercial_pact_acceptance = 0
+	research_agreement_acceptance = 0
 	defensive_pact_acceptance = -20
 	migration_pact_acceptance = -100
 
 	advanced_start_chance = 15
 
 	weapon_preferences = weapon_type_explosive
-	armor_ratio = 0.7
-	shields_ratio = 0.3
+	armor_ratio = 0.6
+	shields_ratio = 0.2
+	hull_ratio = 0.2
 
 	threat_modifier = 1
 	threat_others_modifier = 0.75
@@ -39,6 +42,7 @@ expanded_ideologies_workers_party = {
 		propagator = no
 		multispecies = no
 		attack_neutrals = yes
+		wants_tribute = yes
 	}
 
 	allow = {
