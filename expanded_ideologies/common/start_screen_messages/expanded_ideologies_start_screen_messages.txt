@@ -12,7 +12,7 @@ part = {
 
 part = {
 	location = 1
-	localization = "EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_CORPORATISM"
+	localization = "EXPANDED_IDEOLOGIES_START_SCREEN_PART_TWO_CORPORATOCRACY"
 	
 	trigger = {
 		OR = {
