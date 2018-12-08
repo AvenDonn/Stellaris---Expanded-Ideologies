@@ -15,8 +15,9 @@ expanded_ideologies_revolutionary_council = {
 	advanced_start_chance = 50
 
 	weapon_preferences = weapon_type_kinetic
-	armor_ratio = 1
-	shields_ratio = 0
+	armor_ratio = 0.6
+	shields_ratio = 0.1
+	hull_ratio = 0.3
 
 	threat_modifier = 0.75
 	threat_others_modifier = 0.75
