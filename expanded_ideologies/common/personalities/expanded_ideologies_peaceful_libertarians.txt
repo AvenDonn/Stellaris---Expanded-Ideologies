@@ -96,10 +96,10 @@ expanded_ideologies_peaceful_libertarians = {
 				has_valid_civic = civic_free_traders
 				has_authority = auth_corporate
 			}
-		}
-		OR = {
-			has_valid_civic = civic_beacon_of_liberty
-			has_election_type = democratic
+			AND = {
+				has_valid_civic = civic_beacon_of_liberty
+				has_election_type = democratic
+			}
 		}
 	}
 
