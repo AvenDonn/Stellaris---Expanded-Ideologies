@@ -17,6 +17,7 @@ expanded_ideologies_welfare_state = {
 	weapon_preferences = weapon_type_kinetic
 	armor_ratio = 0.4
 	shields_ratio = 0.6
+	hull_ratio = 0.0
 
 	threat_modifier = 0.75
 	threat_others_modifier = 1
