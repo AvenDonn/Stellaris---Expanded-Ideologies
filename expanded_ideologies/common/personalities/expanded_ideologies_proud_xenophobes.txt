@@ -15,8 +15,9 @@ expanded_ideologies_proud_xenophobes = {
 	advanced_start_chance = 5
 
 	weapon_preferences = weapon_type_energy
-	armor_ratio = 0.8
-	shields_ratio = 0.2
+	armor_ratio = 0.6
+	shields_ratio = 0.1
+	hull_ratio = 0.3
 
 	threat_modifier = 0.75
 	threat_others_modifier = 0.5
