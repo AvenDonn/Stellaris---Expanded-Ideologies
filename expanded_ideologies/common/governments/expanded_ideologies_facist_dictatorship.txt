@@ -42,8 +42,15 @@ expanded_ideologies_gov_fascist_dict = {
 			has_ethic = ethic_fanatic_militarist
 		}
 		NOR = {
-			has_valid_civic = civic_slaver_guilds
 			has_valid_civic = civic_aristocratic_elite
+			has_valid_civic = civic_philosopher_king
+			has_valid_civic = civic_meritocracy
+			has_valid_civic = civic_feudal_realm
+			has_valid_civic = civic_free_haven
+			has_valid_civic = civic_corporate_dominion
+			has_valid_civic = civic_parliamentary_system
+			has_valid_civic = civic_shared_burden
+			has_valid_civic = civic_barbaric_despoilers
 		}
 		NOR = {
 			has_ethic = ethic_spiritualist
@@ -55,6 +62,30 @@ expanded_ideologies_gov_fascist_dict = {
 	}
 
 	weight = {
-		base = 500
+		base = 1000
+		modifier = {
+			factor = 2
+			has_valid_civic = civic_citizen_service
+		}
+		modifier = {
+			factor = 2
+			has_valid_civic = civic_police_state
+		}
+		modifier = {
+			factor = 1.5
+			has_valid_civic = civic_idealistic_foundation
+		}
+		modifier = {
+			factor = 1.5
+			has_valid_civic = civic_shadow_council
+		}
+		modifier = {
+			factor = 1.5
+			has_valid_civic = civic_distinguished_admiralty
+		}
+		modifier = {
+			factor = 1.5
+			has_valid_civic = civic_distinguished_admiralty
+		}
 	}
 }
