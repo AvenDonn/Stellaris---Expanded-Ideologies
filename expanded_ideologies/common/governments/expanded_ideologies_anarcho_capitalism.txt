@@ -42,6 +42,7 @@ expanded_ideologies_gov_anarcho_capitalism = {
 			has_valid_civic = civic_philosopher_king
 			has_valid_civic = civic_citizen_service
 			has_valid_civic = civic_technocracy
+			has_valid_civic = civic_feudal_realm
 			has_valid_civic = civic_slaver_guilds
 			has_valid_civic = civic_inwards_perfection
 			has_valid_civic = civic_warrior_culture
