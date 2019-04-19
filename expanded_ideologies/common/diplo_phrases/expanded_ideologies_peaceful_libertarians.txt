@@ -20,7 +20,12 @@ greetings = {
 		trigger = {
 			has_ai_personality = expanded_ideologies_peaceful_libertarians
 			NOT = { is_at_war_with = FROM }
-			FROM = { NOT = { has_election_type = democratic } }
+			FROM = { 
+				NOR = { 
+					has_ethic = ethic_authoritarian
+					has_Ethic = ethic_fanatic_authoritarian
+					} 
+				}
 			OR = {
 				is_hostile_to = FROM
 				is_unfriendly_to = FROM
