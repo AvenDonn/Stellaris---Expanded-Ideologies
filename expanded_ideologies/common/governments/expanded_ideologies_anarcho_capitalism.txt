@@ -4,6 +4,8 @@ expanded_ideologies_gov_anarcho_capitalism = {
 	ruler_title = EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_MALE
 	ruler_title_female = EXPANDED_IDEOLOGIES_RT_ANARCHO_CAPITALISM_LEAD_FEMALE
 
+	should_force_rename = yes
+	
 	election_candidates = {
 		modifier = {
 			add = 100

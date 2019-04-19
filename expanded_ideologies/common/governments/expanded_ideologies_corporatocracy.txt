@@ -4,6 +4,8 @@ expanded_ideologies_gov_corporatocracy = {
 	ruler_title = EXPANDED_IDEOLOGIES_RT_CORPORATOCRACY_LEAD_MALE
 	ruler_title_female = EXPANDED_IDEOLOGIES_RT_CORPORATOCRACY_LEAD_MALE
 
+	should_force_rename = yes
+
 	election_candidates = {
 		modifier = {
 			add = 1000

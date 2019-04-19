@@ -9,6 +9,8 @@ expanded_ideologies_gov_crusader_kingdom = {
 	use_regnal_names = yes
 	dynastic_last_names = yes
 
+	should_force_rename = yes
+
 	possible = {
 		has_authority = auth_imperial
 		OR = {

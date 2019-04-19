@@ -2,6 +2,9 @@
 expanded_ideologies_gov_nat_expan = {
 	ruler_title = EXPANDED_IDEOLOGIES_RT_NAT_EXPAN_LEAD_MALE
 	ruler_title_female = EXPANDED_IDEOLOGIES_RT_NAT_EXPAN_LEAD_FEMALE
+
+	should_force_rename = yes
+	
 	election_candidates = {
 		modifier = {
 			add = 1000

@@ -4,6 +4,8 @@ expanded_ideologies_gov_social_democracy = {
 	ruler_title = EXPANDED_IDEOLOGIES_RT_SOCIAL_DEMOCRACY_LEAD_MALE
 	ruler_title_female = EXPANDED_IDEOLOGIES_RT_SOCIAL_DEMOCRACY_LEAD_FEMALE
 
+	should_force_rename = yes
+
 	election_candidates = {
 		modifier = {
 			add = 200

@@ -4,6 +4,8 @@ expanded_ideologies_gov_communist = {
 	ruler_title = EXPANDED_IDEOLOGIES_RT_COMMUNIST_LEAD_MALE
 	ruler_title_female = EXPANDED_IDEOLOGIES_RT_COMMUNIST_LEAD_FEMALE
 
+	should_force_rename = yes
+
 	election_candidates = {
 		modifier = {
 			add = 1000
