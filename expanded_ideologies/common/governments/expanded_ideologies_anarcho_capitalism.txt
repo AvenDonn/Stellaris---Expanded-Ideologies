@@ -95,5 +95,9 @@ expanded_ideologies_gov_anarcho_capitalism = {
 			factor = 2
 			has_valid_civic = civic_merchant_guilds
 		}
+		modifier = {
+			factor = 4
+			has_valid_civic = civic_idealistic_foundation
+		}
 	}
 }
